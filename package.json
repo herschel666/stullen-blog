@@ -1,0 +1,13 @@
+{
+  "name": "Stullen-Blog",
+  "version": "0.1.0",
+  "description": "Die mannigfaltige Welt der Stulle",
+  "author": "Emanuel Kluge <mail@emanuel-kluge.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "moment": "2.3.x",
+    "underscore": "1.4.x",
+    "typogr": "0.5.x",
+    "wintersmith-clean-css": "1.0.1"
+  }
+}
